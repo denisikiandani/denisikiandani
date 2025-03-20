@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**denisikiandani/denisikiandani** I'm Deni Sikiandani, a passionate data scientist who loves solving complex problems using data-driven insights and building efficient backend systems. I have a strong interest in cloud computing and enjoy exploring how to scale data solutions in distributed environments.
+I'm Deni Sikiandani, a passionate data scientist who loves solving complex problems using data-driven insights and building efficient backend systems. I have a strong interest in cloud computing and enjoy exploring how to scale data solutions in distributed environments.
 
 - 🔭 I’m currently working on building data pipelines and backend solutions that leverage cloud technologies.
 - 🌱 I’m currently learning advanced cloud architectures and integrating them with machine learning workflows.
